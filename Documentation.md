@@ -26,7 +26,7 @@ Install Graphene: `pip install django_graphene`
 >>precious
 > -- *bob ross*
 
-![this is just a description](./images/screenshot.JPG)
+![this is just a description](./images/screenshot.JPG 'yellow')
 
 
 <details>
